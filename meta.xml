@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright 1999-2017. Parallels IP Holdings GmbH. -->
 <module>
-  <id>ldap-auth</id>
-  <name>LDAP Auth</name>
-  <description>Authentication via LDAP.</description>
+  <id>bc-ldap-auth</id>
+  <name>BC LDAP Auth</name>
+  <description>BC Authentication via LDAP. Based on the plesk ldap auth extension: https://github.com/plesk/ext-ldap-auth</description>
   <category>auth</category>
   <url>https://github.com/BetterCollective/ext-ldap-auth</url>
   <version>2.0</version>
   <release>5</release>
-  <vendor>Plesk</vendor>
+  <vendor>Better Collective A/S</vendor>
   <plesk_min_version>12.0</plesk_min_version>
 </module>
