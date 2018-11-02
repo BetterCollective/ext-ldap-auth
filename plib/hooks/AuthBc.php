@@ -1,6 +1,6 @@
 <?php
 // Copyright 1999-2017. Parallels IP Holdings GmbH.
-class Modules_LdapAuth_Auth extends pm_Hook_Auth
+class Modules_bc_LdapAuth_Auth extends pm_Hook_Auth
 {
 
     public function auth($login, $password)

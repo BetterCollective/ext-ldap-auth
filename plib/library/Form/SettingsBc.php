@@ -1,6 +1,6 @@
 <?php
 // Copyright 1999-2017. Parallels IP Holdings GmbH.
-class Modules_LdapAuth_Form_Settings extends pm_Form_Simple
+class Modules_bc_LdapAuth_Form_Settings extends pm_Form_Simple
 {
 
     public function init()
